@@ -1,0 +1,8 @@
+# Ignore environment variables
+.env
+
+# Ignore log files
+logs/
+
+# Ignore runtime generated text files
+*.txt
